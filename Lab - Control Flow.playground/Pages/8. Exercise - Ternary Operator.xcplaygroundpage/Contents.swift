@@ -8,8 +8,6 @@ let number2 = 25
 
 var largest: Int
 if number1 > number2 {
-    largest = number1
-} else {
     largest = number2
 }
 

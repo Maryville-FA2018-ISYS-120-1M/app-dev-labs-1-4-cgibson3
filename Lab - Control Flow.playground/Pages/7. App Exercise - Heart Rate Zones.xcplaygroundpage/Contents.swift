@@ -17,5 +17,5 @@
  */
 let currentHR = 128
 
-
+print (You are in the Light zone. Activity in this zone helps improve basice endurance and fat burning.)
 //: [Previous](@previous)  |  page 7 of 9  |  [Next: Exercise - Ternary Operator](@next)
