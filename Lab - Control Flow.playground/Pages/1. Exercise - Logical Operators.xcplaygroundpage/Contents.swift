@@ -1,5 +1,9 @@
 print (true)
 print (43 == 43)
+
+/*missing #1
+ print(true)
+ print(9 == 9)*/
 /*:
  2. `9 != 9`
  */
@@ -35,4 +39,12 @@ print ((47 > 90) && (47 < 90))
  */
 print (false)
 print ((47 > 90) // (47 < 90)
+
+/* print(true)
+ print((47 > 90) || (47 < 90)) */
+
+// 9. !true
+
+/* print(false)
+ print(!true) */
 //: page 1 of 9  |  [Next: Exercise - If and If-Else Statements](@next)
